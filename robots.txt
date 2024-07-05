@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://danieljgorski.github.io/al-folio/sitemap.xml
+Sitemap: https://danieljgorski.github.io/sitemap.xml
